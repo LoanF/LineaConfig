@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMaiUS74/vRyy1yp3vXmAVt6201YpxP0myBAiwEYgaTTZzHJFgJnPzpX7TFgX4kZFe7uAcJsbIfLDisNRmGIdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francois.l\\Documents\\LineaConfig\\LineaConfigForm\\LineaConfigForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francois.l\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\francois.l\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\francois.l\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\francois.l\\.nuget\\packages\\nlog.schema\\5.0.1\\nlog.schema.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

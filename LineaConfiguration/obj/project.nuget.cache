@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3J+nb94eXV41uNSXGzodNOkV3fbrCV86Inc+jhVw7zwZ4SR3cbJLAtbMnNNspBDJjQW+536P9CSula5TgO7Pqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francois.l\\Documents\\LineaConfig\\LineaConfiguration\\LineaConfiguration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francois.l\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\francois.l\\.nuget\\packages\\nlog.schema\\5.0.1\\nlog.schema.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

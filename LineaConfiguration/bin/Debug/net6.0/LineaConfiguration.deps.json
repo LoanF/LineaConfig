@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LineaConfiguration/1.0.0": {
+        "dependencies": {
+          "NLog": "5.0.1",
+          "NLog.Schema": "5.0.1"
+        },
+        "runtime": {
+          "LineaConfiguration.dll": {}
+        }
+      },
+      "NLog/5.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.1.1159"
+          }
+        }
+      },
+      "NLog.Schema/5.0.1": {}
+    }
+  },
+  "libraries": {
+    "LineaConfiguration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lNErNEPzYiZtUAlgvXpSRxUIPLIDHTLA8pKxkDDV//DCqzwp98FitFemOEmJjIuPvk3GC3ytrQMXsy7P9RTPIw==",
+      "path": "nlog/5.0.1",
+      "hashPath": "nlog.5.0.1.nupkg.sha512"
+    },
+    "NLog.Schema/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-etYoDN9RbLFsonwLduhYQkF5HZ0lyl8kGrUjrbqop8fmfBxrwaS7zyiZ+1YrDK4qXBn6jE6l00cc2dt9QPFC6A==",
+      "path": "nlog.schema/5.0.1",
+      "hashPath": "nlog.schema.5.0.1.nupkg.sha512"
+    }
+  }
+}
